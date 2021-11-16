@@ -9,6 +9,6 @@ import org.springframework.stereotype.Repository;
 @Repository
 public interface WeatherRepo extends JpaRepository<WeatherDto, Long> {
 
-    @Query(value = "SELECT * FROM weather_hibernate WHERE id=(SELECT MAX(id) FROM weather_hibernate)", nativeQuery = true)
+    @Query(value = "SELECT * FROM temperature_readout WHERE id=(SELECT MAX(id) FROM temperature_readout)", nativeQuery = true)
     WeatherDto findLast();
 }
