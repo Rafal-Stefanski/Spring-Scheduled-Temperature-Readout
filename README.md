@@ -1,5 +1,6 @@
-## Spring Daily News
-- using: http client, MySQL, JDBC
+## Spring Scheduled Temperature Readout
+- using: MySQL, Hibernate, source API OpenWeather
+- view: (refresh every hour) console, endpoint, and API 
 
 ##### address endpoint: http://localhost:8080
 ***
@@ -9,5 +10,3 @@
 ***
 
 ![screen shot](https://github.com/Rafal-Stefanski/Spring-Scheduled-Temperature-Readout/blob/master/src/main/resources/static/screen_shot_01.png)
-
-![screen shot](https://github.com/Rafal-Stefanski/Spring-Scheduled-Temperature-Readout/blob/master/src/main/resources/static/screen_shot_02.png)
