@@ -2,8 +2,10 @@ package com.rafalstefanski.dto;
 
 import javax.persistence.*;
 
+import static com.rafalstefanski.mapping.TableMapping.TABLE_NAME;
+
 @Entity
-@Table(name = "temperature_readout")
+@Table(name = TABLE_NAME)
 public class WeatherDto {
 
     @Id
