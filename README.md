@@ -1,4 +1,4 @@
-## Spring Scheduled Temperature Readout
+## Spring Scheduled Temperature Readout :thermometer: :sun_behind_small_cloud:
 - using: MySQL, Hibernate, source API OpenWeather
 - view in: console, html endpoint, and API 
 
@@ -13,7 +13,7 @@
 
 ***
 ### Tydzień 8
-#### Zadanie 1 :thermometer: :sun_behind_small_cloud:
+#### Zadanie 1
 - [X] Napisz aplikacje, która łączy się z API pogodowym i co godzinę zapisuje informacje na temat aktualnej temperatury w bazie danych (wykorzystaj Hibernate).
 ***
 ##### screenshot
