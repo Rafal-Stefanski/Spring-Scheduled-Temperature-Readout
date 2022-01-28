@@ -1,4 +1,5 @@
 ## Spring Scheduled Temperature Readout :thermometer: :sun_behind_small_cloud:
+<img align="right" src="https://badges.pufler.dev/visits/Rafal-Stefanski/Spring-Scheduled-Temperature-Readout">
 - using: MySQL, Hibernate, source API OpenWeather
 - view in: console, html endpoint, and API 
 
